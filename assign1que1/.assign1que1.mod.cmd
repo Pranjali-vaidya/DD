@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que1/assign1que1.mod := printf '%s\n'   assign1que1.o | awk '!x[$$0]++ { print("/home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que1/"$$0) }' > /home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que1/assign1que1.mod

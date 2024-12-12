@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que1_2/split.mod := printf '%s\n'   split.o | awk '!x[$$0]++ { print("/home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que1_2/"$$0) }' > /home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que1_2/split.mod

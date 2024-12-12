@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/DESD/Device_Driver/ldd/Day13/bbb_gpio_v1_cross_Assignment/modules.order := {   echo /home/sunbeam/DESD/Device_Driver/ldd/Day13/bbb_gpio_v1_cross_Assignment/bbb_gpio.ko; :; } | awk '!x[$$0]++' - > /home/sunbeam/DESD/Device_Driver/ldd/Day13/bbb_gpio_v1_cross_Assignment/modules.order

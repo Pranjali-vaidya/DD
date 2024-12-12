@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que2/modparam.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que2/modparam.ko /home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que2/modparam.o /home/sunbeam/DESD/Device_Driver/ldd_Assignment/assign1que2/modparam.mod.o
